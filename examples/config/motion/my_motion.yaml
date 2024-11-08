@@ -1,0 +1,9 @@
+filepath: examples/bvh/my_motion.bvh
+groundplane_joint: L_Ankle
+forward_perp_joint_vectors:
+  - - L_Shoulder
+    - R_Shoulder
+  - - L_Hip
+    - R_Hip
+scale: 0.025
+up: +y
